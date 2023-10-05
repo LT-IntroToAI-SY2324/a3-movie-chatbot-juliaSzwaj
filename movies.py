@@ -25,6 +25,20 @@ movie_db: List[Tuple[str, str, int, List[str]]] = [
         ],  # actors/actresses
     ),
     (
+        "barbie",
+        "greta gerwig",
+        2023,
+        [
+            "ryan gosling",
+            "margot robbie",
+            "simu liu",
+            "michael cera",
+            "will ferrell",
+            "america ferrera",
+            "issa rae",
+        ],
+    ),
+    (
         "the big easy",
         "jim mcbride",
         1987,
